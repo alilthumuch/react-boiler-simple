@@ -1,1 +1,6 @@
-# react-boiler-simple
+# Bundle
+
+Start Boiler Plate:
+1. npm install
+2. npm run build
+3. npm start
